@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import Button from "./Button";
 const Friend = ({ friend, onSelectFriend, selectedFriend }) => {
   const selectFriendHandler = () => {
